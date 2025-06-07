@@ -1,4 +1,3 @@
-<p align="center"><img src="https://raw.githubusercontent.com/liontamerbc/liontamerbc/main/profile-banner.png" alt="Profile Banner" /></p>
 
 ### GitHub Stats
 
