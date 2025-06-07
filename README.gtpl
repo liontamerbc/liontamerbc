@@ -11,7 +11,7 @@
 - [daniel-dtos](https://github.com/liontamerbc/daniel-dtos) - Custom DTOS configuration and scripts
 
 ### 🌱 Latest Projects
-
+- [bluebyt-wayfire](https://github.com/liontamerbc/bluebyt-wayfire) - Wayfire compositor configuration and customization
 
 ### 🔨 Recent Pull Requests
 
