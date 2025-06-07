@@ -2,7 +2,6 @@
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=liontamerbc&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=liontamerbc&layout=compact&theme=radical" />
 </p>
 
 ### 👷 Current Projects
