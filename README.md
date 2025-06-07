@@ -1,5 +1,3 @@
-<p align="center"><img src="https://raw.githubusercontent.com/liontamerbc/liontamerbc/main/profile-banner.png" alt="Profile Banner" /></p>
-
 ### GitHub Stats
 
 <p align="left"><img src="https://github-readme-stats.vercel.app/api?username=liontamerbc&show_icons=true&theme=radical" /></p>
