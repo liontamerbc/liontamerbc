@@ -1,3 +1,4 @@
+<p align="center"><img src="https://raw.githubusercontent.com/liontamerbc/liontamerbc/main/profile-banner.png" alt="Profile Banner" /></p>
 
 ### GitHub Stats
 
@@ -10,6 +11,7 @@
 - [daniel-dtos](https://github.com/liontamerbc/daniel-dtos) - Custom DTOS configuration and scripts
 
 ### 🌱 Latest Projects
+- [bluebyt-wayfire](https://github.com/liontamerbc/bluebyt-wayfire) - Wayfire compositor configuration and customization
 
 ### 🔨 Recent Pull Requests
 
