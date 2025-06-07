@@ -1,6 +1,6 @@
-<p align="center">
+<div align="center" style="margin: 20px 0;">
   <h1 style="color: #2ecc71; margin: 0;">Linux Enthusiast & Developer</h1>
-</p>
+</div>
 
 ### 🎯 GitHub Stats
 
