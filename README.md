@@ -1,5 +1,5 @@
 <p align="center">
-  <strong>Wayland Enthusiast & Developer</strong>
+  <strong>Linux Enthusiast & Developer</strong>
 </p>
 
 ### 🎯 GitHub Stats
