@@ -1,5 +1,5 @@
-<p align="center">
-  <strong>Linux Enthusiast & Developer</strong>
+<p align="center" style="font-size: 24px; font-weight: bold; color: #2ecc71;">
+  Linux Enthusiast & Developer
 </p>
 
 ### 🎯 GitHub Stats
@@ -17,7 +17,7 @@
 ### 🌱 Latest Projects
 - [bluebyt-wayfire](https://github.com/liontamerbc/bluebyt-wayfire) - Wayfire compositor configuration and customization
 
-### 🔨 Recent Pull Requests
+### 🔨 Recent Pull Requestsa
 
 ### 🌟 Starred Projects
 - [hyprland](https://github.com/hyprwm/Hyprland) - A dynamic tiling Wayland compositor
