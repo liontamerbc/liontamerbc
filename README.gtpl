@@ -11,28 +11,22 @@
 - [daniel-dtos](https://github.com/liontamerbc/daniel-dtos) - Custom DTOS configuration and scripts
 
 ### 🌱 Latest Projects
-{{ range recentRepos 5 }}
-- [{{ .Name }}]({{ .URL }}) - {{ .Description }}
-{{- end }}
+
 
 ### 🔨 Recent Pull Requests
-{{ range recentPullRequests 5 }}
-- [{{ .Title }}]({{ .URL }}) on [{{ .Repo.Name }}]({{ .Repo.URL }})
-{{- end }}
+
 
 ### ⭐ Recent Stars
-{{ range recentStars 5 }}
-- [{{ .Repo.Name }}]({{ .Repo.URL }}) - {{ .Repo.Description }}
-{{- end }}
+- [bluebyt-wayfire](https://github.com/liontamerbc/bluebyt-wayfire) - Wayfire compositor configuration and customization
+- [bluebyt-hyprland](https://github.com/liontamerbc/bluebyt-hyprland) - Hyprland compositor configuration and customization
+- [linuxmobile-hyprland](https://github.com/liontamerbc/linuxmobile-hyprland) - Mobile-focused Hyprland configuration
+- [daniel-dtos](https://github.com/liontamerbc/daniel-dtos) - Custom DTOS configuration and scripts
+- [wayfire](https://github.com/WayfireWM/wayfire) - A modern compositor for Linux
 
 ### 🌟 Starred Projects
-{{ range starredProjects 5 }}
-- [{{ .Name }}]({{ .URL }}) - {{ .Description }}
-{{- end }}
+- [hyprland](https://github.com/hyprwm/Hyprland) - A dynamic tiling Wayland compositor
+- [wayfire](https://github.com/WayfireWM/wayfire) - A modern compositor for Linux
+- [bluebyt-wayfire](https://github.com/liontamerbc/bluebyt-wayfire) - Wayfire compositor configuration and customization
+- [bluebyt-hyprland](https://github.com/liontamerbc/bluebyt-hyprland) - Hyprland compositor configuration and customization
+- [linuxmobile-hyprland](https://github.com/liontamerbc/linuxmobile-hyprland) - Mobile-focused Hyprland configuration
 
-### 📫 Contact Me:
-  - YouTube: <https://youtube.com/@liontamerbc>
-  - Twitch: <https://twitch.tv/liontamerbc>
-  - Twitter: <https://twitter.com/liontamerbc>
-  - GitHub: <https://github.com/liontamerbc>
-  - Email: your.email@example.com
