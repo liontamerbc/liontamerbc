@@ -1,4 +1,4 @@
-<p align="center" style="font-size: 24 px; font-weight: bold; color: #2ecc71;">
+<p align="center" style="font-size: 24px; font-weight: bold; color: #2ecc71;">
   Linux Enthusiast & Developer
 </p>
 
@@ -17,7 +17,7 @@
 ### 🌱 Latest Projects
 - [bluebyt-wayfire](https://github.com/liontamerbc/bluebyt-wayfire) - Wayfire compositor configuration and customization
 
-### 🔨 Recent Pull Requestsa
+### 🔨 Recent Pull Requests
 
 ### 🌟 Starred Projects
 - [hyprland](https://github.com/hyprwm/Hyprland) - A dynamic tiling Wayland compositor
