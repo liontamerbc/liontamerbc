@@ -1,5 +1,5 @@
-<p align="center">
-  <strong>Wayland Enthusiast & Developer</strong>
+<p align="center" style="font-size: 24px; font-weight: bold; color: #2ecc71;">
+  Linux Enthusiast & Developer
 </p>
 
 ### 🎯 GitHub Stats
