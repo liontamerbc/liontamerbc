@@ -5,7 +5,7 @@
 ### 🎯 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=liontamerbc&show_icons=true&theme=radical&count_private=true&include_all_commits=true&layout=compact&hide_border=true&bg_color=00000000&cache_time=300" />
+  <img src="https://github-readme-stats.vercel.app/api?username=liontamerbc&show_icons=true&theme=radical&count_private=true&include_all_commits=true&layout=compact&hide_border=true&cache_time=300" />
 </p>
 
 ### 👷 Current Projects
