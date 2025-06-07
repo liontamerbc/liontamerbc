@@ -1,5 +1,5 @@
 <div align="center" style="margin: 20px 0;">
-  <h1 style="color: #2ecc71; margin: 0;">🐧 Linux Enthusiast & Developer 🐧</h1>
+  <h1 style="color: #2ecc71; margin: 0;">🐧 Linux Enthusiast 🐧</h1>
 </div>
 
 ### 🎯 GitHub Stats
