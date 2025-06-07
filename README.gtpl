@@ -1,5 +1,5 @@
-<p align="center" style="font-size: 24px; font-weight: bold; color: #2ecc71;">
-  Linux Enthusiast & Developer
+<p align="center">
+  <h1 style="color: #2ecc71; margin: 0;">Linux Enthusiast & Developer</h1>
 </p>
 
 ### 🎯 GitHub Stats
