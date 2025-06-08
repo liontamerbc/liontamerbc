@@ -2,7 +2,7 @@
   <h1 style="color: #2ecc71; margin: 0; font-size: 2.5em; line-height: 1.2;">🐧 Linux Enthusiast 🐧</h1>
 </div>
 
-<p align="center">
+<p align="left">
   👩‍❤️‍👨 Full-time caregiver to my wife
   <br>
   🎯 Learning Linux through YouTube
