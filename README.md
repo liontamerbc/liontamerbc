@@ -2,6 +2,22 @@
   <h1 style="color: #2ecc71; margin: 0; font-size: 2.5em; line-height: 1.2;">🐧 Linux Enthusiast 🐧</h1>
 </div>
 
+<p align="center">
+  👩‍❤️‍👨 Full-time caregiver to my wife
+  <br>
+  🎯 Learning Linux through YouTube
+  <br>
+  🧠 Living with ADHD
+  <br>
+  📖 Christian
+  <br>
+  👨‍👩‍👦‍👦 Father to 2 adult stepsons
+  <br>
+  🎮 Passionate about Linux and open source
+  <br>
+  💻 Also enjoys using Windows
+</p>
+
 ### 🎯 GitHub Stats
 
 <p align="left">
