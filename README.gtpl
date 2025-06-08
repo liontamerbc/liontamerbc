@@ -60,3 +60,21 @@
 - [bluebyt-hyprland](https://github.com/liontamerbc/bluebyt-hyprland) - Hyprland compositor configuration and customization
 - [linuxmobile-hyprland](https://github.com/liontamerbc/linuxmobile-hyprland) - Mobile-focused Hyprland configuration
 
+### 🎬 Featured YouTube Videos
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <iframe width="300" height="169" src="https://www.youtube.com/embed/placeholder" frameborder="0" allowfullscreen></iframe>
+  <iframe width="300" height="169" src="https://www.youtube.com/embed/placeholder" frameborder="0" allowfullscreen></iframe>
+  <iframe width="300" height="169" src="https://www.youtube.com/embed/placeholder" frameborder="0" allowfullscreen></iframe>
+</div>
+
+<p style="text-align: center; margin-top: 10px;">
+  <a href="https://youtube.com/@DistroTube" target="_blank">DistroTube</a> • 
+  <a href="https://youtube.com/@ChrisTitusTech" target="_blank">ChrisTitusTech</a> • 
+  <a href="https://youtube.com/@DavesAttic" target="_blank">Dave's Attic</a> • 
+  <a href="https://youtube.com/@Britec09" target="_blank">Britec09</a> • 
+  <a href="https://youtube.com/@ThioJoe" target="_blank">ThioJoe</a> • 
+  <a href="https://youtube.com/@VeronicaExplains" target="_blank">Veronica Explains</a> • 
+  <a href="https://youtube.com/@LearnLinuxTV" target="_blank">Learn Linux TV</a>
+</p>
+
