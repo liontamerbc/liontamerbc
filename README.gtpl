@@ -4,14 +4,9 @@
 
 ### 🎯 GitHub Stats
 
-<div style="display: flex; gap: 20px; justify-content: center;">
-  <div style="flex: 1;">
-    <img src="https://github-readme-stats.vercel.app/api?username=liontamerbc&show_icons=true&theme=radical&count_private=true&include_all_commits=true&layout=compact&hide_border=true&cache_time=300" />
-  </div>
-  <div style="flex: 1;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=liontamerbc&layout=compact&theme=radical&hide_border=true&cache_time=300" />
-  </div>
-</div>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=liontamerbc&show_icons=true&theme=radical&count_private=true&include_all_commits=true&layout=compact&hide_border=true&cache_time=300" />
+</p>
 
 ### 👷 Current Projects
 - [bluebyt-wayfire](https://github.com/liontamerbc/bluebyt-wayfire) - Wayfire compositor configuration and customization
