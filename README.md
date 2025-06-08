@@ -4,9 +4,16 @@
 
 ### 🎯 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=liontamerbc&show_icons=true&theme=radical&count_private=true&include_all_commits=true&layout=compact&hide_border=true&cache_time=300" />
-</p>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=liontamerbc&show_icons=true&theme=radical&count_private=true&include_all_commits=true&layout=compact&hide_border=true&cache_time=300" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=liontamerbc&layout=compact&theme=radical&hide_border=true&cache_time=300" />
+    </td>
+  </tr>
+</table>
 
 ### 👷 Current Projects
 - [bluebyt-wayfire](https://github.com/liontamerbc/bluebyt-wayfire) - Wayfire compositor configuration and customization
