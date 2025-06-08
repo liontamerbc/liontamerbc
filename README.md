@@ -48,6 +48,5 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&pause=1000&color=2ECC71&center=true&width=435&lines=Thank+you+for+visiting!" alt="Thank you for visiting!" />
 </div>
-- [linuxmobile-hyprland](https://github.com/liontamerbc/linuxmobile-hyprland) - Mobile-focused Hyprland configuration
 
 
