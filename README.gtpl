@@ -8,6 +8,17 @@
   <img src="https://github-readme-stats.vercel.app/api?username=liontamerbc&show_icons=true&theme=radical&count_private=true&include_all_commits=true&layout=compact&hide_border=true&cache_time=300" />
 </p>
 
+### 💻 Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Linux-2E8B57?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/wayfire-4A90E2?style=for-the-badge&logo=wayfire&logoColor=white" />
+  <img src="https://img.shields.io/badge/hyprland-FF6B6B?style=for-the-badge&logo=hyprland&logoColor=white" />
+  <img src="https://img.shields.io/badge/wayland-0073CF?style=for-the-badge&logo=wayland&logoColor=white" />
+  <img src="https://img.shields.io/badge/DTOS-0078D7?style=for-the-badge&logo=debian&logoColor=white" />
+  <img src="https://img.shields.io/badge/shell_script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+</p>
+
 ### 👷 Current Projects
 - [bluebyt-wayfire](https://github.com/liontamerbc/bluebyt-wayfire) - Wayfire compositor configuration and customization
 - [bluebyt-hyprland](https://github.com/liontamerbc/bluebyt-hyprland) - Hyprland compositor configuration and customization
