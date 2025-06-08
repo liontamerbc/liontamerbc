@@ -1,5 +1,5 @@
-<div align="center" style="margin: 20px 0;">
-  <h1 style="color: #2ecc71; margin: 0; font-size: 2.5em; line-height: 1.2;">🐧 Linux Enthusiast 🐧</h1>
+<div style="margin: 20px 0;">
+  <h1 style="color: #2ecc71; margin: 0; font-size: 2.5em; line-height: 1.2;">👋 Hi, I'm Dan! 👋</h1>
 </div>
 
 <p align="left">
