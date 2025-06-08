@@ -2,21 +2,7 @@
   <h1 style="color: #2ecc71; margin: 0; font-size: 2.5em; line-height: 1.2;">👋 Hi, I'm Dan! 👋</h1>
 </div>
 
-<p align="left">
-  👩‍❤️‍👨 Full-time caregiver to my wife
-  <br>
-  🎯 Learning Linux through YouTube
-  <br>
-  🧠 Living with ADHD
-  <br>
-  📖 Christian
-  <br>
-  👨‍👩‍👦‍👦 Father to 2 adult stepsons
-  <br>
-  🎮 Passionate about Linux and open source
-  <br>
-  💻 Also enjoys using Windows
-</p>
+<p align="left">I'm a full-time caregiver to my wife, a father to two adult stepsons, and a Christian. I'm passionate about technology, particularly Linux and open source software, which I've been learning through YouTube. While I primarily use Linux, I also enjoy working with Windows. Living with ADHD, I find that technology and learning new things helps me stay focused and engaged.</p>
 
 ### 🎯 GitHub Stats
 
@@ -59,3 +45,5 @@
 - [bluebyt-wayfire](https://github.com/liontamerbc/bluebyt-wayfire) - Wayfire compositor configuration and customization
 - [bluebyt-hyprland](https://github.com/liontamerbc/bluebyt-hyprland) - Hyprland compositor configuration and customization
 - [linuxmobile-hyprland](https://github.com/liontamerbc/linuxmobile-hyprland) - Mobile-focused Hyprland configuration
+
+
