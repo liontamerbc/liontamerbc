@@ -63,9 +63,24 @@
 ### 🎬 Featured YouTube Videos
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <iframe width="300" height="169" src="https://www.youtube.com/embed/placeholder" frameborder="0" allowfullscreen></iframe>
-  <iframe width="300" height="169" src="https://www.youtube.com/embed/placeholder" frameborder="0" allowfullscreen></iframe>
-  <iframe width="300" height="169" src="https://www.youtube.com/embed/placeholder" frameborder="0" allowfullscreen></iframe>
+  <div style="flex: 1; min-width: 300px;">
+    <a href="https://youtube.com/@DistroTube">
+      <img src="https://img.youtube.com/vi/dQw4w9WgXcQ/mqdefault.jpg" alt="DistroTube" style="width: 100%; height: auto;">
+      <div style="text-align: center; margin-top: 5px;">DistroTube</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 300px;">
+    <a href="https://youtube.com/@ChrisTitusTech">
+      <img src="https://img.youtube.com/vi/dQw4w9WgXcQ/mqdefault.jpg" alt="ChrisTitusTech" style="width: 100%; height: auto;">
+      <div style="text-align: center; margin-top: 5px;">ChrisTitusTech</div>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 300px;">
+    <a href="https://youtube.com/@Britec09">
+      <img src="https://img.youtube.com/vi/dQw4w9WgXcQ/mqdefault.jpg" alt="Britec09" style="width: 100%; height: auto;">
+      <div style="text-align: center; margin-top: 5px;">Britec09</div>
+    </a>
+  </div>
 </div>
 
 <p style="text-align: center; margin-top: 10px;">
