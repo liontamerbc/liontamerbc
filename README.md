@@ -11,12 +11,12 @@
 ### 💻 Tech Stack
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/wayfire-000000?style=for-the-badge&logo=wayfire&logoColor=white" />
-  <img src="https://img.shields.io/badge/hyprland-000000?style=for-the-badge&logo=hyprland&logoColor=white" />
-  <img src="https://img.shields.io/badge/wayland-000000?style=for-the-badge&logo=wayland&logoColor=white" />
-  <img src="https://img.shields.io/badge/DTOS-000000?style=for-the-badge&logo=debian&logoColor=white" />
-  <img src="https://img.shields.io/badge/shell_script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-2E8B57?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/wayfire-4A90E2?style=for-the-badge&logo=wayfire&logoColor=white" />
+  <img src="https://img.shields.io/badge/hyprland-FF6B6B?style=for-the-badge&logo=hyprland&logoColor=white" />
+  <img src="https://img.shields.io/badge/wayland-0073CF?style=for-the-badge&logo=wayland&logoColor=white" />
+  <img src="https://img.shields.io/badge/DTOS-0078D7?style=for-the-badge&logo=debian&logoColor=white" />
+  <img src="https://img.shields.io/badge/shell_script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
 </p>
 
 ### 👷 Current Projects
