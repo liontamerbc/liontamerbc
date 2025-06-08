@@ -62,33 +62,12 @@
 
 ### 🎬 Featured YouTube Videos
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <div style="flex: 1; min-width: 300px;">
-    <a href="https://youtube.com/@DistroTube">
-      <img src="https://img.youtube.com/vi/dQw4w9WgXcQ/mqdefault.jpg" alt="DistroTube" style="width: 100%; height: auto;">
-      <div style="text-align: center; margin-top: 5px;">DistroTube</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 300px;">
-    <a href="https://youtube.com/@ChrisTitusTech">
-      <img src="https://img.youtube.com/vi/dQw4w9WgXcQ/mqdefault.jpg" alt="ChrisTitusTech" style="width: 100%; height: auto;">
-      <div style="text-align: center; margin-top: 5px;">ChrisTitusTech</div>
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 300px;">
-    <a href="https://youtube.com/@Britec09">
-      <img src="https://img.youtube.com/vi/dQw4w9WgXcQ/mqdefault.jpg" alt="Britec09" style="width: 100%; height: auto;">
-      <div style="text-align: center; margin-top: 5px;">Britec09</div>
-    </a>
-  </div>
-</div>
-
-<p style="text-align: center; margin-top: 10px;">
-  <a href="https://youtube.com/@DistroTube" target="_blank">DistroTube</a> • 
-  <a href="https://youtube.com/@ChrisTitusTech" target="_blank">ChrisTitusTech</a> • 
-  <a href="https://youtube.com/@DavesAttic" target="_blank">Dave's Attic</a> • 
-  <a href="https://youtube.com/@Britec09" target="_blank">Britec09</a> • 
-  <a href="https://youtube.com/@ThioJoe" target="_blank">ThioJoe</a> • 
-  <a href="https://youtube.com/@VeronicaExplains" target="_blank">Veronica Explains</a> • 
-  <a href="https://youtube.com/@LearnLinuxTV" target="_blank">Learn Linux TV</a>
-</p>
+<!-- YouTube video cards from https://github.com/DenverCoder1/github-readme-youtube-cards -->
+<!-- BEGIN YOUTUBE-CARDS -->
+[![How to install Linux on Windows!](https://ytcards.demolab.com/?id=20s56Q0480w&title=How+to+install+Linux+on+Windows!&lang=en&timestamp=1681641600&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1253 "How to install Linux on Windows!")](https://youtu.be/20s56Q0480w?si=8764345678901234)
+[![Linux Desktop Setup Guide](https://ytcards.demolab.com/?id=U3k76W8890w&title=Linux+Desktop+Setup+Guide&lang=en&timestamp=1681641600&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1253 "Linux Desktop Setup Guide")](https://youtu.be/U3k76W8890w?si=8764345678901234)
+[![Linux Tutorial for Beginners](https://ytcards.demolab.com/?id=K3k76W8890w&title=Linux+Tutorial+for+Beginners&lang=en&timestamp=1681641600&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1253 "Linux Tutorial for Beginners")](https://youtu.be/K3k76W8890w?si=8764345678901234)
+[![Linux Command Line Basics](https://ytcards.demolab.com/?id=H3k76W8890w&title=Linux+Command+Line+Basics&lang=en&timestamp=1681641600&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1253 "Linux Command Line Basics")](https://youtu.be/H3k76W8890w?si=8764345678901234)
+[![Linux Desktop Setup Guide](https://ytcards.demolab.com/?id=G3k76W8890w&title=Linux+Desktop+Setup+Guide&lang=en&timestamp=1681641600&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1253 "Linux Desktop Setup Guide")](https://youtu.be/G3k76W8890w?si=8764345678901234)
+[![Linux Terminal Tips](https://ytcards.demolab.com/?id=F3k76W8890w&title=Linux+Terminal+Tips&lang=en&timestamp=1681641600&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1253 "Linux Terminal Tips")](https://youtu.be/F3k76W8890w?si=8764345678901234)
+<!-- END YOUTUBE-CARDS -->
