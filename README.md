@@ -42,10 +42,6 @@
 - [bluebyt-wayfire](https://github.com/liontamerbc/bluebyt-wayfire) - Wayfire compositor configuration and customization
 - [bluebyt-hyprland](https://github.com/liontamerbc/bluebyt-hyprland) - Hyprland compositor configuration and customization
 
-<div style="margin: 20px 0;">
-  <h2 style="color: #2ecc71; margin: 0; font-size: 1.5em; line-height: 1.2;">✨ Thank you for visiting! ✨</h2>
-</div>
-
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=32&pause=1000&color=2ECC71&center=true&width=600&lines=Thank+you+for+visiting!" alt="Thank you for visiting!" />
 </div>
