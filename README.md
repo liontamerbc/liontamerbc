@@ -42,7 +42,7 @@
 - [bluebyt-wayfire](https://github.com/liontamerbc/bluebyt-wayfire) - Wayfire compositor configuration and customization
 - [bluebyt-hyprland](https://github.com/liontamerbc/bluebyt-hyprland) - Hyprland compositor configuration and customization
 
-<hr style="border: 1px solid #2ecc71; margin: 20px 0;">
+<hr style="border: 0.5px solid #2ecc71; margin: 20px 0;">
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=32&pause=1000&color=2ECC71&center=true&width=600&lines=Thank+you+for+visiting!" alt="Thank you for visiting!" />
