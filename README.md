@@ -1,4 +1,7 @@
-<p align="center"><strong>Welcome to the Lion’s Den</strong></p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&pause=1000&color=F1551D&background=00000000&center=true&width=600&lines=Thank+you+for+visiting!" alt="Thank you for visiting!" />
+</div>
+
 
 <p align="left">I'm a full-time caregiver to my wife, a father to two adult stepsons, and a Christian. I'm passionate about technology, particularly Linux and open source software, which I've been learning through YouTube. While I primarily use Linux, I also enjoy working with Windows. Living with ADHD, I find that technology can sometimes help me stay focused and engaged.</p>
 
