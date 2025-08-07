@@ -1,5 +1,9 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&pause=1000&color=F1551D&background=00000000&center=true&width=600&lines=Thank+you+for+visiting!" alt="Thank you for visiting!" />
+<div style="margin: 20px 0;">
+
+
+  <h1 style="color: #2ecc71; margin: 0; font-size: 2.5em; line-height: 1.2;">Welcome to the Lion's Den! 👋</h1>
+
+
 </div>
 
 
