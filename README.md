@@ -3,9 +3,6 @@
   <img src="YOUR_BANNER_URL_HERE" alt="Lion's Den Banner" />
 </p> -->
 
-<p align="center">📜</p>
-<hr style="border: none; height: 4px; background: linear-gradient(to right, #8B5E3C, #D2B48C, #8B5E3C); margin: 20px 0;">
-
 
 🦁 About Me
 
