@@ -7,9 +7,15 @@
   <h1 style="color: #2ECC71; font-size: 2.5em; line-height: 1.2; margin: 0;">🦁 Welcome to the Lion's Den! 🦁</h1>
 </div>
 
-<p align="left">
-I'm a full-time caregiver to my wife, a father to two adult stepsons, and a Christian. I'm passionate about technology, particularly Linux and open source software, which I've been learning through YouTube. While I primarily use Linux, I also enjoy working with Windows. Living with ADHD, I find that technology can sometimes help me stay focused and engaged.
-</p>
+🦁 About Me
+
+I’m a full-time caregiver to my wife, a father to two grown stepsons, and a follower of Christ. My days are rooted in love, faith, and resilience—and my nights often burn bright with terminal windows and open source discovery.
+
+Linux is my domain of choice, where I explore, tinker, and learn through the wisdom of the YouTube scrolls. I also keep a foot in the Windows world, bridging both realms with curiosity and grit.
+
+Living with ADHD, I’ve found that technology isn’t just a tool—it’s a companion. It helps me stay focused, engaged, and creatively alive. Every config file, every shell script, every pixel I refine is part of a bigger story—one of purpose, perseverance, and grace.
+
+My lion logo serves as a personal crest—symbolizing strength, vigilance, and the biblical image of boldness found in Proverbs 28:1: “The righteous are as bold as a lion.” This isn’t just a GitHub profile. It’s the Lion’s Den.
 
 
 ### 🎯 GitHub Stats
