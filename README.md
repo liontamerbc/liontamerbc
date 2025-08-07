@@ -41,6 +41,8 @@ My lion logo serves as a personal crest—symbolizing strength, vigilance, and t
   <img src="https://img.shields.io/badge/shell_script-7C5E3C?style=for-the-badge&logo=gnu-bash&logoColor=F5F5F5" />
 </p>
 
+<hr style="border: none; height: 2px; background: linear-gradient(to right, #444, #ccc, #444); margin: 40px 0;">
+
 ### 👷 Current Projects
 - [bluebyt-wayfire](https://github.com/liontamerbc/bluebyt-wayfire) – Wayfire compositor configuration and customization  
 - [bluebyt-hyprland](https://github.com/liontamerbc/bluebyt-hyprland) – Hyprland compositor configuration and customization  
