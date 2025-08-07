@@ -22,7 +22,7 @@ I'm a full-time caregiver to my wife, a father to two adult stepsons, and a Chri
 
 <p align="left">
   <img src="https://img.shields.io/badge/Linux-C19A3F?style=for-the-badge&logo=linux&logoColor=1C1C1C" />
-  <img src="https://img.shields.io/badge/wayfire-7C5E3C?style=for-the-badge&logo=wayfire&logoColor=F5F5F5" />
+  <img src="https://img.shields.io/badge/wayfire-7C5E3C?style=for-the-badge&logo=linux&logoColor=F5F5F5" />
   <img src="https://img.shields.io/badge/hyprland-8B0000?style=for-the-badge&logo=hyprland&logoColor=F5F5F5" />
   <img src="https://img.shields.io/badge/wayland-1C1C1C?style=for-the-badge&logo=wayland&logoColor=C19A3F" />
   <img src="https://img.shields.io/badge/DTOS-C19A3F?style=for-the-badge&logo=debian&logoColor=8B0000" />
