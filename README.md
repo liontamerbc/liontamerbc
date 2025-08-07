@@ -24,9 +24,7 @@ Living with ADHD, I’ve found that technology isn’t just a tool—it’s a co
 My lion logo serves as a personal crest—symbolizing strength, vigilance, and the biblical image of boldness found in Proverbs 28:1: “The righteous are as bold as a lion.” This isn’t just a GitHub profile. It’s the Lion’s Den.
 
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/assets/main/divider.svg" alt="divider" style="width:100%; max-width:800px;">
-</div>
+<hr style="border: none; height: 4px; background: linear-gradient(to right, #8B5E3C, #D2B48C, #8B5E3C); margin: 40px 0;">
 
 
 ### 🎯 GitHub Stats
@@ -43,9 +41,7 @@ My lion logo serves as a personal crest—symbolizing strength, vigilance, and t
   <img src="https://img.shields.io/badge/shell_script-7C5E3C?style=for-the-badge&logo=gnu-bash&logoColor=F5F5F5" />
 </p>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/assets/main/divider.svg" alt="divider" style="width:100%; max-width:800px;">
-</div>
+<hr style="border: none; height: 4px; background: linear-gradient(to right, #8B5E3C, #D2B48C, #8B5E3C); margin: 40px 0;">
 
 ### 👷 Current Projects
 - [bluebyt-wayfire](https://github.com/liontamerbc/bluebyt-wayfire) – Wayfire compositor configuration and customization  
