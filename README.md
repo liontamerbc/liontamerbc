@@ -11,47 +11,20 @@
 ### 💻 Tech Stack
 
 
-<p align="left">
-
-
-  <img src="https://img.shields.io/badge/Linux-2E8B57?style=for-the-badge&logo=linux&logoColor=white" />
-
-
-  <img src="https://img.shields.io/badge/wayfire-4A90E2?style=for-the-badge&logo=wayfire&logoColor=white" />
-
-
-  <img src="https://img.shields.io/badge/hyprland-FF6B6B?style=for-the-badge&logo=hyprland&logoColor=white" />
-
-
-  <img src="https://img.shields.io/badge/wayland-0073CF?style=for-the-badge&logo=wayland&logoColor=white" />
-
-
-  <img src="https://img.shields.io/badge/DTOS-0078D7?style=for-the-badge&logo=debian&logoColor=white" />
-
-
-  <img src="https://img.shields.io/badge/shell_script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-
-
+<!-- 🐧 System & Tools Badges -->
+<p align="left" style="margin-bottom: 20px;">
+  <img src="https://img.shields.io/badge/Linux-2E8B57?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
+  <img src="https://img.shields.io/badge/Wayfire-4A90E2?style=for-the-badge&logo=wayfire&logoColor=white" alt="Wayfire" />
+  <img src="https://img.shields.io/badge/Hyprland-FF6B6B?style=for-the-badge&logo=hyprland&logoColor=white" alt="Hyprland" />
+  <img src="https://img.shields.io/badge/Wayland-0073CF?style=for-the-badge&logo=wayland&logoColor=white" alt="Wayland" />
+  <img src="https://img.shields.io/badge/DTOS-0078D7?style=for-the-badge&logo=debian&logoColor=white" alt="DTOS" />
+  <img src="https://img.shields.io/badge/Shell_Script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Script" />
 </p>
 
-
+<!-- ⚙️ Tech Stack Icons -->
 <div style="display: flex; gap: 20px; align-items: center; justify-content: center; background-color: #1E1E1E; padding: 20px; border-radius: 10px;">
-
-
-  <img src="https://cdn.simpleicons.org/react/F1551D" alt="React" width="40" height="40" title="React">
-
-
-  <img src="https://cdn.simpleicons.org/node.js/D97706" alt="Node.js" width="40" height="40" title="Node.js">
-
-
-  <img src="https://cdn.simpleicons.org/github/F0EAD6" alt="GitHub" width="40" height="40" title="GitHub">
-
-
-  <img src="https://cdn.simpleicons.org/markdown/FF914D" alt="Markdown" width="40" height="40" title="Markdown">
-
-
-</div>
-
+  <img src="https://cdn.simpleicons.org/react/F1551D" alt="React" width="40" height="40" title="React" />
+  <img src="https://cdn.simpleicons.org/node.js/D97706"
 
 
 ### 👷 Current Projects
