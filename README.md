@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://imgur.com/liontamerbc-banner" alt="LionTamerBC Banner" width="100%" />
-</p>
-
 <div style="margin: 20px 0;">
   <h1 style="color: #2ecc71; margin: 0; font-size: 2.5em; line-height: 1.2;">Hi, I'm LionTamerBC! 👋</h1>
 </div>
