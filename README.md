@@ -3,7 +3,7 @@
   <img src="YOUR_BANNER_URL_HERE" alt="Lion's Den Banner" />
 </p> -->
 
-<h1 align="left">🦁 Welcome to the Lion’s Den 🦁</h1>
+<h1 align="center">🦁 Welcome to the Lion’s Den 🦁</h1>
 
 ### 🦁 About Me
 
