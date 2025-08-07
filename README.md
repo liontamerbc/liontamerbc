@@ -10,12 +10,13 @@
 
 ### 💻 Tech Stack
 
-<div style="display: flex; gap: 20px; align-items: center; justify-content: center; background-color: #1E1E1E; padding: 20px; border-radius: 10px;">
-  <img src="https://cdn.simpleicons.org/react/F1551D" alt="React" width="40" height="40" title="React">
-  <img src="https://cdn.simpleicons.org/node.js/D97706" alt="Node.js" width="40" height="40" title="Node.js">
-  <img src="https://cdn.simpleicons.org/github/F0EAD6" alt="GitHub" width="40" height="40" title="GitHub">
-  <img src="https://cdn.simpleicons.org/markdown/FF914D" alt="Markdown" width="40" height="40" title="Markdown">
+<div style="display: flex; gap: 20px; align-items: center; justify-content: center; padding: 20px;">
+  <img src="https://cdn.simpleicons.org/react/61DAFB" alt="React" width="40" height="40" title="React">
+  <img src="https://cdn.simpleicons.org/node.js/339933" alt="Node.js" width="40" height="40" title="Node.js">
+  <img src="https://cdn.simpleicons.org/github/181717" alt="GitHub" width="40" height="40" title="GitHub">
+  <img src="https://cdn.simpleicons.org/markdown/000000" alt="Markdown" width="40" height="40" title="Markdown">
 </div>
+
 
 
 ### 👷 Current Projects
