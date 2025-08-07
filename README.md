@@ -21,6 +21,7 @@ Living with ADHD, I’ve found that technology isn’t just a tool—it’s a co
 
 My lion logo serves as a personal crest—symbolizing strength, vigilance, and the biblical image of boldness found in Proverbs 28:1: “The righteous are as bold as a lion.” This isn’t just a GitHub profile. It’s the Lion’s Den.
 
+<h3 align="center">━━━━━━━━ 🦁 ━━━━━━━━</h3>
 
 <h3 align="center">🎯 GitHub Stats</h3>
 <p align="left">
