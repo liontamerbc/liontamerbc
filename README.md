@@ -43,8 +43,9 @@
 - [bluebyt-hyprland](https://github.com/liontamerbc/bluebyt-hyprland) - Hyprland compositor configuration and customization
 
 
-
- <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&pause=1000&color=F1551D&center=true&width=600&lines=Thank+you+for+visiting!" alt="Thank you for visiting!" /> </div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=liontamerbc&show_icons=true&theme=slateorange&count_private=true&include_all_commits=true&layout=compact&hide_border=true&bg_color=00000000&title_color=F1551D&text_color=F1551D&icon_color=F1551D&cache_time=300" />
+</p>
 
 
 
