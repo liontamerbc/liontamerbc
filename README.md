@@ -3,9 +3,9 @@
   <img src="YOUR_BANNER_URL_HERE" alt="Lion's Den Banner" />
 </p> -->
 
-<div style="margin: 20px 0;">
-  <h1 style="color: #2ECC71; font-size: 2.5em; line-height: 1.2; margin: 0;">🦁 Welcome to the Lion's Den! 🦁</h1>
-</div>
+<p align="center">📜</p>
+<hr style="border: none; height: 4px; background: linear-gradient(to right, #8B5E3C, #D2B48C, #8B5E3C); margin: 20px 0;">
+
 
 🦁 About Me
 
