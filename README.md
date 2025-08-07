@@ -1,10 +1,9 @@
 <div style="margin: 20px 0;">
-
-
-  <h1 style="color: #2ecc71; margin: 0; font-size: 2.5em; line-height: 1.2;">Welcome to the Lion's Den! 👋</h1>
-
-
+  <h1 style="color: #2ECC71; font-size: 2.5em; line-height: 1.2; margin: 0;">
+    Welcome to the Lion's Den! 👋
+  </h1>
 </div>
+
 
 
 <p align="left">I'm a full-time caregiver to my wife, a father to two adult stepsons, and a Christian. I'm passionate about technology, particularly Linux and open source software, which I've been learning through YouTube. While I primarily use Linux, I also enjoy working with Windows. Living with ADHD, I find that technology can sometimes help me stay focused and engaged.</p>
