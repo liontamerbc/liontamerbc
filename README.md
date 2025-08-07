@@ -28,7 +28,7 @@ My lion logo serves as a personal crest—symbolizing strength, vigilance, and t
   <img src="https://github-readme-stats.vercel.app/api?username=liontamerbc&show_icons=true&theme=slateorange&count_private=true&include_all_commits=true&layout=compact&hide_border=true&bg_color=00000000&title_color=F1551D&text_color=F1551D&icon_color=F1551D&cache_time=300" />
 </p>
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Linux-C19A3F?style=for-the-badge&logo=linux&logoColor=1C1C1C" />
   <img src="https://img.shields.io/badge/wayfire-7C5E3C?style=for-the-badge&logo=linux&logoColor=F5F5F5" />
   <img src="https://img.shields.io/badge/hyprland-8B0000?style=for-the-badge&logo=hyprland&logoColor=F5F5F5" />
