@@ -58,6 +58,7 @@ My lion logo serves as a personal crest—symbolizing strength, vigilance, and t
 - [bluebyt-hyprland](https://github.com/liontamerbc/bluebyt-hyprland)  
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&pause=1000&color=F1551D&center=true&width=600&lines=Thank+you+for+visiting!+🦁" alt="Thank you for visiting!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&pause=1000&color=F1551D&center=true&width=600&lines=🦁+Thank+you+for+visiting!+🦁" alt="Thank you for visiting!" />
 </p>
+
 
