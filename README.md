@@ -37,6 +37,10 @@ My lion logo serves as a personal crest—symbolizing strength, vigilance, and t
   <img src="https://img.shields.io/badge/shell_script-7C5E3C?style=for-the-badge&logo=gnu-bash&logoColor=F5F5F5" />
 </p>
 
+
+<h3 align="center">━━━━━━━━ 🦁 ━━━━━━━━</h3>
+
+
 <h3 align="center">🚧 Active Development & Exploration</h3>
 
 ### 👷 Current Projects
