@@ -11,14 +11,11 @@
 I'm a full-time caregiver to my wife, a father to two adult stepsons, and a Christian. I'm passionate about technology, particularly Linux and open source software, which I've been learning through YouTube. While I primarily use Linux, I also enjoy working with Windows. Living with ADHD, I find that technology can sometimes help me stay focused and engaged.
 </p>
 
-<p align="center">━━✦━━</p>
 
 ### 🎯 GitHub Stats
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=liontamerbc&show_icons=true&theme=slateorange&count_private=true&include_all_commits=true&layout=compact&hide_border=true&bg_color=00000000&title_color=F1551D&text_color=F1551D&icon_color=F1551D&cache_time=300" />
 </p>
-
-<p align="center">━━✦━━</p>
 
 <p align="left">
   <img src="https://img.shields.io/badge/Linux-C19A3F?style=for-the-badge&logo=linux&logoColor=1C1C1C" />
@@ -29,19 +26,13 @@ I'm a full-time caregiver to my wife, a father to two adult stepsons, and a Chri
   <img src="https://img.shields.io/badge/shell_script-7C5E3C?style=for-the-badge&logo=gnu-bash&logoColor=F5F5F5" />
 </p>
 
-<p align="center">━━✦━━</p>
-
 ### 👷 Current Projects
 - [bluebyt-wayfire](https://github.com/liontamerbc/bluebyt-wayfire) – Wayfire compositor configuration and customization  
 - [bluebyt-hyprland](https://github.com/liontamerbc/bluebyt-hyprland) – Hyprland compositor configuration and customization  
 - [linuxmobile-hyprland](https://github.com/liontamerbc/linuxmobile-hyprland) – Mobile-focused Hyprland configuration  
 
-<p align="center">━━✦━━</p>
-
 ### 🌱 Latest Projects
 - [bluebyt-wayfire](https://github.com/liontamerbc/bluebyt-wayfire) – Wayfire compositor configuration and customization  
-
-<p align="center">━━✦━━</p>
 
 ### ⭐ Recent Stars
 - [bluebyt-wayfire](https://github.com/liontamerbc/bluebyt-wayfire)  
@@ -49,8 +40,6 @@ I'm a full-time caregiver to my wife, a father to two adult stepsons, and a Chri
 - [linuxmobile-hyprland](https://github.com/liontamerbc/linuxmobile-hyprland)  
 - [daniel-dtos](https://github.com/liontamerbc/daniel-dtos)  
 - [wayfire](https://github.com/WayfireWM/wayfire)  
-
-<p align="center">━━✦━━</p>
 
 ### 🌟 Starred Projects
 - [hyprland](https://github.com/hyprwm/Hyprland)  
