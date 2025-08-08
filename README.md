@@ -22,7 +22,7 @@ This isn’t just a GitHub profile. It’s the Lion’s Den.
 
 ## 🎯 GitHub Stats
 
-<!-- You can embed your stats card here if you like -->
+![Dan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=liontamerbc&show_icons=true&theme=radical)
 
 ━━━━━━━━ 🦁 ━━━━━━━━
 
