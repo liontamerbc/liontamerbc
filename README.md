@@ -1,6 +1,11 @@
+<!-- Banner (optional) -->
+<!-- <p align="center">
+  <img src="YOUR_BANNER_URL_HERE" alt="Lion's Den Banner" />
+</p> -->
+
 <h1 align="center">🦁 Welcome to the Lion’s Den 🦁</h1>
 
-<h2>🦁 About Me</h2>
+<h3 align="center">🦁 About Me</h3>
 
 <p>I’m a full-time caregiver to my wife, a father to two grown stepsons, and a follower of Christ. My days are rooted in love, faith, and resilience—and my nights often burn bright with terminal windows and open source discovery.</p>
 
@@ -14,47 +19,62 @@
 
 <p align="center">━━✦━━</p>
 
-<p>My lion logo serves as a personal crest—symbolizing strength, vigilance, and the biblical image of boldness found in Proverbs 28:1:</p>
+<p>My lion logo serves as a personal crest—symbolizing strength, vigilance, and the biblical image of boldness found in Proverbs 28:1:<br>
+<strong>“The righteous are as bold as a lion.”</strong><br>
+This isn’t just a GitHub profile. It’s the Lion’s Den.</p>
 
-<p><strong>“The righteous are as bold as a lion.”</strong></p>
+<h3 align="center">━━━━━━━━ 🦁 ━━━━━━━━</h3>
 
-<p>This isn’t just a GitHub profile. It’s the Lion’s Den.</p>
+<h3 align="center">🎯 GitHub Stats</h3>
 
-<p align="center">━━━━━━━━ 🦁 ━━━━━━━━</p>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=liontamerbc&show_icons=true&theme=slateorange&count_private=true&include_all_commits=true&layout=compact&hide_border=true&bg_color=00000000&title_color=F1551D&text_color=F1551D&icon_color=F1551D&cache_time=300" />
+</p>
 
-<h2>🎯 GitHub Stats</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/Linux-C19A3F?style=for-the-badge&logo=linux&logoColor=1C1C1C" />
+  <img src="https://img.shields.io/badge/wayfire-7C5E3C?style=for-the-badge&logo=linux&logoColor=F5F5F5" />
+  <img src="https://img.shields.io/badge/hyprland-8B0000?style=for-the-badge&logo=hyprland&logoColor=F5F5F5" />
+  <img src="https://img.shields.io/badge/wayland-1C1C1C?style=for-the-badge&logo=wayland&logoColor=C19A3F" />
+  <img src="https://img.shields.io/badge/DTOS-C19A3F?style=for-the-badge&logo=debian&logoColor=8B0000" />
+  <img src="https://img.shields.io/badge/shell_script-7C5E3C?style=for-the-badge&logo=gnu-bash&logoColor=F5F5F5" />
+</p>
 
-<p align="center">━━━━━━━━ 🦁 ━━━━━━━━</p>
+<h3 align="center">━━━━━━━━ 🦁 ━━━━━━━━</h3>
 
-<h2>🚧 Active Development & Exploration</h2>
+<h3 align="center">🚧 Active Development & Exploration</h3>
 
-<h3>👷 Current Projects</h3>
+<h4>👷 Current Projects</h4>
 <ul>
-  <li><code>bluebyt-wayfire</code> – Wayfire compositor configuration and customization</li>
-  <li><code>bluebyt-hyprland</code> – Hyprland compositor configuration and customization</li>
-  <li><code>linuxmobile-hyprland</code> – Mobile-focused Hyprland configuration</li>
+  <li><a href="https://github.com/liontamerbc/bluebyt-wayfire">bluebyt-wayfire</a> – Wayfire compositor configuration and customization</li>
+  <li><a href="https://github.com/liontamerbc/bluebyt-hyprland">bluebyt-hyprland</a> – Hyprland compositor configuration and customization</li>
+  <li><a href="https://github.com/liontamerbc/linuxmobile-hyprland">linuxmobile-hyprland</a> – Mobile-focused Hyprland configuration</li>
 </ul>
 
-<h3>🌱 Latest Projects</h3>
+<h4>🌱 Latest Projects</h4>
 <ul>
-  <li><code>bluebyt-wayfire</code> – Wayfire compositor configuration and customization</li>
+  <li><a href="https://github.com/liontamerbc/bluebyt-wayfire">bluebyt-wayfire</a> – Wayfire compositor configuration and customization</li>
 </ul>
 
-<h3>⭐ Recent Stars</h3>
+<h4>⭐ Recent Stars</h4>
 <ul>
-  <li><code>bluebyt-wayfire</code></li>
-  <li><code>bluebyt-hyprland</code></li>
-  <li><code>linuxmobile-hyprland</code></li>
-  <li><code>daniel-dtos</code></li>
-  <li><code>wayfire</code></li>
+  <li><a href="https://github.com/liontamerbc/bluebyt-wayfire">bluebyt-wayfire</a></li>
+  <li><a href="https://github.com/liontamerbc/bluebyt-hyprland">bluebyt-hyprland</a></li>
+  <li><a href="https://github.com/liontamerbc/linuxmobile-hyprland">linuxmobile-hyprland</a></li>
+  <li><a href="https://github.com/liontamerbc/daniel-dtos">daniel-dtos</a></li>
+  <li><a href="https://github.com/WayfireWM/wayfire">wayfire</a></li>
 </ul>
 
-<h3>🌟 Starred Projects</h3>
+<h4>🌟 Starred Projects</h4>
 <ul>
-  <li><code>hyprland</code></li>
-  <li><code>wayfire</code></li>
-  <li><code>bluebyt-wayfire</code></li>
-  <li><code>bluebyt-hyprland</code></li>
+  <li><a href="https://github.com/hyprwm/Hyprland">hyprland</a></li>
+  <li><a href="https://github.com/WayfireWM/wayfire">wayfire</a></li>
+  <li><a href="https://github.com/liontamerbc/bluebyt-wayfire">bluebyt-wayfire</a></li>
+  <li><a href="https://github.com/liontamerbc/bluebyt-hyprland">bluebyt-hyprland</a></li>
 </ul>
 
-<h2 align="center">🔥🔥🔥🔥🔥<br>Thank you for visiting!</h2>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&pause=1000&color=F1551D&center=true&width=600&lines=🦁+Thank+you+for+visiting!+🦁" alt="Thank you for visiting!" />
+  <br>
+  🔥🔥🔥🔥🔥
+</p>
