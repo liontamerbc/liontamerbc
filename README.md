@@ -4,7 +4,7 @@
 </p> -->
 
 <h1 align="center">🦁 Welcome to my Lion’s Den 🦁</h1>
-<p align="center"><strong>Where boldness meets code, and every scroll tells a story.</strong></p>
+<p align="center" style="color:#DAA520;"><strong>Where boldness meets code, and every scroll tells a story.</strong></p>
 
 <h3 align="center">🦁 About Me</h3>
 
