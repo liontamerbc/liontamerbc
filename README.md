@@ -7,7 +7,7 @@
 <p align="center"><strong>Where boldness meets code, and every scroll tells a story.</strong></p>
 
 <p align="center" style="color:#F1551D; font-family:JetBrains Mono; font-size:18px;">
-  ────── ⋆⋅☆⋅⋆ ──────
+  ───────────── ✝ ─────────────
 </p>
 
 <h3 align="center">🦁 About Me</h3>
