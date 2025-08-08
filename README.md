@@ -49,9 +49,6 @@ My lion logo serves as a personal crest—symbolizing strength, vigilance, and t
 - [bluebyt-hyprland](https://github.com/liontamerbc/bluebyt-hyprland) – Hyprland compositor configuration and customization  
 - [linuxmobile-hyprland](https://github.com/liontamerbc/linuxmobile-hyprland) – Mobile-focused Hyprland configuration  
 
-### 🌱 Latest Projects
-- [bluebyt-wayfire](https://github.com/liontamerbc/bluebyt-wayfire) – Wayfire compositor configuration and customization  
-
 ### ⭐ Recent Stars
 - [bluebyt-wayfire](https://github.com/liontamerbc/bluebyt-wayfire)  
 - [bluebyt-hyprland](https://github.com/liontamerbc/bluebyt-hyprland)  
