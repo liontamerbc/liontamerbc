@@ -28,7 +28,7 @@ My lion logo serves as a personal crest—symbolizing strength, vigilance, and t
 
 <p align="center">━━✦━━</p>
 
-<h3 align="center">## 🦁 Why “LionTamer?”</h3>
+<h3 align="center">🦁 Why “LionTamer?”</h3>
 
 <p align="center">
   <img src="https://your-lion-logo-url.svg" width="80" alt="Lion Crest" />
