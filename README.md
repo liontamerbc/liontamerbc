@@ -5,7 +5,7 @@
 
 <h1 align="center">🦁 Welcome to my Lion’s Den 🦁</h1>
 
-<h3 align="center">🦁 About Me</h3>
+<h3 align="center">🦁 About Me 🦁</h3>
 
 <p>I’m a full-time caregiver to my wife, a father to two grown stepsons, and a follower of Christ. My days are rooted in love, faith, and resilience—and my nights often burn bright with terminal windows and open source discovery.</p>
 
@@ -25,7 +25,7 @@ This isn’t just a GitHub profile. It’s the Lion’s Den.</p>
 
 <h3 align="center">━━━━━━━━ 🦁 ━━━━━━━━</h3>
 
-<h3 align="center">🎯 GitHub Stats</h3>
+<h3 align="center">🎯 GitHub Stats 🎯</h3>
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=liontamerbc&show_icons=true&theme=slateorange&count_private=true&include_all_commits=true&layout=compact&hide_border=true&bg_color=00000000&title_color=F1551D&text_color=F1551D&icon_color=F1551D&cache_time=300" />
@@ -42,7 +42,7 @@ This isn’t just a GitHub profile. It’s the Lion’s Den.</p>
 
 <h3 align="center">━━━━━━━━ 🦁 ━━━━━━━━</h3>
 
-<h3 align="center">🚧 Active Development & Exploration</h3>
+<h3 align="center">🚧 Active Development & Exploration 🚧</h3>
 
 <h4>👷 Current Projects</h4>
 <ul>
