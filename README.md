@@ -1,54 +1,60 @@
 <h1 align="center">🦁 Welcome to the Lion’s Den 🦁</h1>
 
-## 🦁 About Me
+<h2>🦁 About Me</h2>
 
-I’m a full-time caregiver to my wife, a father to two grown stepsons, and a follower of Christ. My days are rooted in love, faith, and resilience—and my nights often burn bright with terminal windows and open source discovery.
+<p>I’m a full-time caregiver to my wife, a father to two grown stepsons, and a follower of Christ. My days are rooted in love, faith, and resilience—and my nights often burn bright with terminal windows and open source discovery.</p>
 
-━━✦━━
+<p align="center">━━✦━━</p>
 
-Linux is my domain of choice, where I explore, tinker, and learn through the wisdom of the YouTube scrolls. I also keep a foot in the Windows world, bridging both realms with curiosity and grit.
+<p>Linux is my domain of choice, where I explore, tinker, and learn through the wisdom of the YouTube scrolls. I also keep a foot in the Windows world, bridging both realms with curiosity and grit.</p>
 
-━━✦━━
+<p align="center">━━✦━━</p>
 
-Living with ADHD, I’ve found that technology isn’t just a tool—it’s a companion. It helps me stay focused, engaged, and creatively alive. Every config file, every shell script, every pixel I refine is part of a bigger story—one of purpose, perseverance, and grace.
+<p>Living with ADHD, I’ve found that technology isn’t just a tool—it’s a companion. It helps me stay focused, engaged, and creatively alive. Every config file, every shell script, every pixel I refine is part of a bigger story—one of purpose, perseverance, and grace.</p>
 
-━━✦━━
+<p align="center">━━✦━━</p>
 
-My lion logo serves as a personal crest—symbolizing strength, vigilance, and the biblical image of boldness found in Proverbs 28:1:  
-**“The righteous are as bold as a lion.”**  
-This isn’t just a GitHub profile. It’s the Lion’s Den.
+<p>My lion logo serves as a personal crest—symbolizing strength, vigilance, and the biblical image of boldness found in Proverbs 28:1:</p>
 
-━━━━━━━━ 🦁 ━━━━━━━━
+<p><strong>“The righteous are as bold as a lion.”</strong></p>
 
-## 🎯 GitHub Stats
+<p>This isn’t just a GitHub profile. It’s the Lion’s Den.</p>
 
-![Dan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=liontamerbc&show_icons=true&theme=radical)
+<p align="center">━━━━━━━━ 🦁 ━━━━━━━━</p>
 
-━━━━━━━━ 🦁 ━━━━━━━━
+<h2>🎯 GitHub Stats</h2>
 
-## 🚧 Active Development & Exploration
+<p align="center">━━━━━━━━ 🦁 ━━━━━━━━</p>
 
-### 👷 Current Projects
-- `bluebyt-wayfire` – Wayfire compositor configuration and customization  
-- `bluebyt-hyprland` – Hyprland compositor configuration and customization  
-- `linuxmobile-hyprland` – Mobile-focused Hyprland configuration  
+<h2>🚧 Active Development & Exploration</h2>
 
-### 🌱 Latest Projects
-- `bluebyt-wayfire` – Wayfire compositor configuration and customization  
+<h3>👷 Current Projects</h3>
+<ul>
+  <li><code>bluebyt-wayfire</code> – Wayfire compositor configuration and customization</li>
+  <li><code>bluebyt-hyprland</code> – Hyprland compositor configuration and customization</li>
+  <li><code>linuxmobile-hyprland</code> – Mobile-focused Hyprland configuration</li>
+</ul>
 
-### ⭐ Recent Stars
-- `bluebyt-wayfire`  
-- `bluebyt-hyprland`  
-- `linuxmobile-hyprland`  
-- `daniel-dtos`  
-- `wayfire`  
+<h3>🌱 Latest Projects</h3>
+<ul>
+  <li><code>bluebyt-wayfire</code> – Wayfire compositor configuration and customization</li>
+</ul>
 
-### 🌟 Starred Projects
-- `hyprland`  
-- `wayfire`  
-- `bluebyt-wayfire`  
-- `bluebyt-hyprland`  
+<h3>⭐ Recent Stars</h3>
+<ul>
+  <li><code>bluebyt-wayfire</code></li>
+  <li><code>bluebyt-hyprland</code></li>
+  <li><code>linuxmobile-hyprland</code></li>
+  <li><code>daniel-dtos</code></li>
+  <li><code>wayfire</code></li>
+</ul>
 
----
+<h3>🌟 Starred Projects</h3>
+<ul>
+  <li><code>hyprland</code></li>
+  <li><code>wayfire</code></li>
+  <li><code>bluebyt-wayfire</code></li>
+  <li><code>bluebyt-hyprland</code></li>
+</ul>
 
 <h2 align="center">🔥🔥🔥🔥🔥<br>Thank you for visiting!</h2>
