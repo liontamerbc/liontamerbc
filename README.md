@@ -52,11 +52,6 @@ This isn’t just a GitHub profile. It’s the Lion’s Den.</p>
   <li><a href="https://github.com/liontamerbc/linuxmobile-hyprland">linuxmobile-hyprland</a> – Mobile-focused Hyprland configuration</li>
 </ul>
 
-<h4>🌱 Latest Projects</h4>
-<ul>
-  <li><a href="https://github.com/liontamerbc/bluebyt-wayfire">bluebyt-wayfire</a> – Wayfire compositor configuration and customization</li>
-</ul>
-
 <h4>⭐ Recent Stars</h4>
 <ul>
   <li><a href="https://github.com/liontamerbc/bluebyt-wayfire">bluebyt-wayfire</a></li>
