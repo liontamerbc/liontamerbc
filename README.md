@@ -31,7 +31,7 @@
 
 <h3 align="center">🎯 GitHub Stats 🎯</h3>
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=liontamerbc&show_icons=true&theme=slateorange&count_private=true&include_all_commits=true&layout=compact&hide_border=true&bg_color=00000000&title_color=F1551D&text_color=F1551D&icon_color=F1551D&cache_time=300" />
 </p>
 
