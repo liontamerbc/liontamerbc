@@ -6,7 +6,6 @@
 <p align="center"><strong>Where boldness meets code, and every scroll tells a story.</strong></p>
 
 <h2 align="center">🦁 About Me 🦁</h2>
-
 <p>I’m a full-time caregiver to my wife, a father to two grown stepsons, and a follower of Christ.<br>
 My days are rooted in love, faith, and resilience—and my nights often burn bright with terminal windows and open source discovery.</p>
 
