@@ -21,7 +21,11 @@ It helps me stay focused, engaged, and creatively alive. Every config file, ever
 <em>“The righteous are as bold as a lion.”</em><br>
 This isn’t just a GitHub profile. It’s the Lion’s Den.</p>
 
+<hr style="border: none; text-align: center;" />
+
 <h3 align="center">🎯 GitHub Stats</h3>
+
+<hr style="border: none; text-align: center;" />
 
 <h3 align="center">🚧 Active Development & Exploration 🚧</h3>
 
@@ -56,4 +60,3 @@ This isn’t just a GitHub profile. It’s the Lion’s Den.</p>
 
 <h2 align="center">🦁 Thank you for visiting! 🦁</h2>
 <p align="center">🔥🔥🔥🔥🔥</p>
-
