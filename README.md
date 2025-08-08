@@ -4,6 +4,7 @@
 </p> -->
 
 <h1 align="center">🦁 Welcome to my Lion’s Den 🦁</h1>
+<p align="center">Where boldness meets code, and every scroll tells a story.</p>
 
 <h3 align="center">🦁 About Me 🦁</h3>
 
