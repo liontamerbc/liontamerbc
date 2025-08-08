@@ -3,6 +3,9 @@
   <img src="YOUR_BANNER_URL_HERE" alt="Lion's Den Banner" />
 </p> -->
 
+<h1 align="center">🦁 Welcome to my Lion’s Den 🦁</h1>
+<p align="center">Where boldness meets code, and every scroll tells a story.
+
 <h2 align="center">🦁 About Me 🦁</h2>
 
 <p>I’m a full-time caregiver to my wife, a father to two grown stepsons, and a follower of Christ.<br>
