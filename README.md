@@ -6,7 +6,9 @@
 <h1 align="center">🦁 Welcome to my Lion’s Den 🦁</h1>
 <p align="center"><strong>Where boldness meets code, and every scroll tells a story.</strong></p>
 
-<hr style="width:60%; border:1px solid #F1551D; margin:auto;">
+<p align="center" style="color:#F1551D; font-family:JetBrains Mono; font-size:18px;">
+  ────── ⋆⋅☆⋅⋆ ──────
+</p>
 
 <h3 align="center">🦁 About Me</h3>
 
