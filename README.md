@@ -5,14 +5,43 @@
 
 <h2 align="center">🦁 About Me 🦁</h2>
 
-I’m a full-time caregiver to my wife, a father to two grown stepsons, and a follower of Christ. My days are rooted in love, faith, and resilience—and my nights often burn bright with terminal windows and open source discovery. 
-━━✦━━ 
-Linux is my domain of choice, where I explore, tinker, and learn through the wisdom of the YouTube scrolls. I also keep a foot in the Windows world, bridging both realms with curiosity and grit. 
-━━✦━━ 
-Living with ADHD, I’ve found that technology isn’t just a tool—it’s a companion. It helps me stay focused, engaged, and creatively alive. Every config file, every shell script, every pixel I refine is part of a bigger story—one of purpose, perseverance, and grace. 
-━━✦━━ 
-My lion logo serves as a personal crest—symbolizing strength, vigilance, and the biblical image of boldness found in Proverbs 28:1: “The righteous are as bold as a lion.” This isn’t just a GitHub profile. It’s the Lion’s Den. 
-━━✦━━
+<p>I’m a full-time caregiver to my wife, a father to two grown stepsons, and a follower of Christ.<br>
+My days are rooted in love, faith, and resilience—and my nights often burn bright with terminal windows and open source discovery.</p>
+
+<p align="center"><strong>━━✦━━</strong></p>
+
+<p>Linux is my domain of choice, where I explore, tinker, and learn through the wisdom of the YouTube scrolls.<br>
+I also keep a foot in the Windows world, bridging both realms with curiosity and grit.</p>
+
+<p align="center"><strong>━━✦━━</strong></p>
+
+<p>Living with ADHD, I’ve found that technology isn’t just a tool—it’s a companion.<br>
+It helps me stay focused, engaged, and creatively alive. Every config file, every shell script, every pixel I refine is part of a bigger story—one of purpose, perseverance, and grace.</p>
+
+<p align="center"><strong>━━✦━━</strong></p>
+
+<p>My lion logo serves as a personal crest—symbolizing strength, vigilance, and the biblical image of boldness found in Proverbs 28:1:</p>
+
+<p align="center"><em>“The righteous are as bold as a lion.”</em></p>
+
+<p>This isn’t just a GitHub profile. It’s the Lion’s Den.</p>
+
+<p align="center"><strong>━━✦━━</strong></p>
+
+<p>The name <strong>LionTamer</strong> isn’t just a handle—it’s a declaration.<br>
+It reflects a life shaped by courage, discipline, and faith. In scripture, lions symbolize strength, kingship, and divine authority.<br>
+But taming a lion? That’s about stewardship—channeling boldness with purpose.</p>
+
+<p>This identity speaks to:</p>
+
+<ul>
+  <li>🛡️ <strong>Guardianship</strong>: Protecting what matters—faith, family, truth.</li>
+  <li>🔥 <strong>Creative Boldness</strong>: Designing with conviction, not convention.</li>
+  <li>✝️ <strong>Spiritual Discipline</strong>: Strength under submission to Christ.</li>
+</ul>
+
+<p>Every scroll divider, every color choice, every repo is part of a larger story.<br>
+<strong>Welcome to the den.</strong></p>
 
 <h3 align="center">━━━━━━━━ 🦁 ━━━━━━━━</h3>
 
