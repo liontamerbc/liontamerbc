@@ -6,6 +6,8 @@
 <h1 align="center">🦁 Welcome to my Lion’s Den 🦁</h1>
 <p align="center">Where boldness meets code, and every scroll tells a story.</p>
 
+<p align="center">━━━━━━━━━━━━━━━━✦━━━━━━━━━━━━━━━━</p>
+
 <h3 align="center">🦁 About Me 🦁</h3>
 
 <p>I’m a full-time caregiver to my wife, a father to two grown stepsons, and a follower of Christ. My days are rooted in love, faith, and resilience—and my nights often burn bright with terminal windows and open source discovery.</p>
