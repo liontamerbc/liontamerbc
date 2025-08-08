@@ -2,7 +2,6 @@
 <!-- <p align="center">
   <img src="YOUR_BANNER_URL_HERE" alt="Lion's Den Banner" />
 </p> -->
-
 <h1 align="center">🦁 Welcome to my Lion’s Den 🦁</h1>
 <p align="center"><strong>Where boldness meets code, and every scroll tells a story.</strong></p>
 
