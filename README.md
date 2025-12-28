@@ -27,16 +27,6 @@ This isn’t just a GitHub profile. It’s the Lion’s Den.</p>
   ───────────── ✝ ─────────────
 </p>
 
-<h3 align="center">🎯 GitHub Stats</h3>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=liontamerbc&show_icons=true&theme=slateorange&count_private=true&include_all_commits=true&layout=compact&hide_border=true&bg_color=00000000&title_color=F1551D&text_color=F1551D&icon_color=F1551D&cache_time=300" />
-</p>
-
-<p align="left">
-  <img src="https://visitor-badge.lithub.cc/badge?page_id=liontamerbc.liontamerbc" alt="Visitor Count" />
-   38 </p>
-
 <h3 align="center">🛠️ Technologies & Tools</h3>
 
 <p align="center">
