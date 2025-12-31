@@ -58,7 +58,9 @@ This isn’t just a GitHub profile. It’s the Lion’s Den.</p>
   <li><a href="https://github.com/liontamerbc/bluebyt-wayfire">bluebyt-wayfire</a></li>
   <li><a href="https://github.com/liontamerbc/bluebyt-hyprland">bluebyt-hyprland</a></li>
   <li><a href="https://github.com/liontamerbc/linuxmobile-hyprland">linuxmobile-hyprland</a></li>
-  <li><a href="https://github.com/liontamerbc/daniel-dtos">daniel-dtos</a></li>
+  <li><a href="https://github.com/liontamerbc/dtos-original">dtos-original</a></li>
+  <li><a href="https://github.com/liontamerbc/dtos-pywal">dtos-pywal</a></li>
+  <li><a href="https://github.com/liontamerbc/uefi-boot-switcher">uefi-boot-switcher</a></li>
   <li><a href="https://github.com/WayfireWM/wayfire">wayfire</a></li>
 </ul>
 
