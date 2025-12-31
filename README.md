@@ -31,8 +31,8 @@ This isn’t just a GitHub profile. It’s the Lion’s Den.</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Linux-8B0000?style=for-the-badge&logo=linux&logoColor=F5F5F5" />
-  <img src="https://img.shields.io/badge/Arch_Linux-C19A3F?style=for-the-badge&logo=archlinux&logoColor=1C1C1C" />
-  <img src="https://img.shields.io/badge/Debian-C19A3F?style=for-the-badge&logo=debian&logoColor=8B0000" />
+  <img src="https://img.shields.io/badge/Arch_Linux-8B0000?style=for-the-badge&logo=archlinux&logoColor=F5F5F5" />
+  <img src="https://img.shields.io/badge/Debian-C19A3F?style=for-the-badge&logo=debian&logoColor=1C1C1C" />
   <img src="https://img.shields.io/badge/hyprland-C19A3F?style=for-the-badge&logo=hyprland&logoColor=1C1C1C" />
   <img src="https://img.shields.io/badge/wayland-1C1C1C?style=for-the-badge&logo=wayland&logoColor=C19A3F" />
   <img src="https://img.shields.io/badge/wayfire-7C5E3C?style=for-the-badge&logo=linux&logoColor=F5F5F5" />
