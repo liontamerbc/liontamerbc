@@ -19,8 +19,7 @@
 
 <p align="center">━━✦━━</p>
 
-<p>My lion logo serves as a personal crest—symbolizing strength, vigilance, and the biblical image of boldness found in Proverbs 28:1:<br>
-<strong>“The righteous are as bold as a lion.”</strong><br>
+<p>My lion logo serves as a personal crest—symbolizing strength, vigilance, and the biblical image of boldness found in Proverbs 28:1:<br> <strong>“The righteous are as bold as a lion.”</strong><br>
   
 This isn’t just a GitHub profile. It’s the Lion’s Den.</p>
 
