@@ -76,6 +76,7 @@ This isn’t just a GitHub profile. It’s the Lion’s Den.</p>
 </ul>
 
 <p align="center" style="color:#F1551D; font-family:JetBrains Mono; font-size:18px;">
+  
   🦁 Thank you for stepping into my Lion’s Den 🦁<br>
   🔥🔥🔥🔥🔥
 </p>
