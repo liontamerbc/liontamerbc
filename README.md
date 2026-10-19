@@ -63,6 +63,7 @@
   <li><a href="https://github.com/liontamerbc/linuxmobile-hyprland">linuxmobile-hyprland</a></li>
   <li><a href="https://github.com/liontamerbc/dtos/tree/dtos-original">dtos (Original)</a></li>
   <li><a href="https://github.com/liontamerbc/dtos/tree/dtos-pywal">dtos (Pywal)</a></li>
+  <li><a href="https://github.com/liontamerbc/dtos/tree/dtos-wallust">dtos (Wallust)</a></li>
   <li><a href="https://github.com/liontamerbc/uefi-boot-switcher">uefi-boot-switcher</a></li>
   <li><a href="https://github.com/WayfireWM/wayfire">wayfire</a></li>
 </ul>
